@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: s29e7lj9r-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/s29e7lj9r-go
